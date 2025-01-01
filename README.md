@@ -1,6 +1,3 @@
-Cancer Stem Cells Trajectory Inference and Pseudotime Analysis
-This project performs trajectory inference and pseudotime analysis on cancer stem cells (CSCs) to identify cellular transitions from stemness to differentiation. The analysis uses single-cell RNA sequencing data from the GSE119469 dataset, available through the Gene Expression Omnibus (GEO).
-
 # Cancer Stem Cells Trajectory Inference and Pseudotime Analysis
 
 This project performs trajectory inference and pseudotime analysis on cancer stem cells (CSCs) to identify cellular transitions from stemness to differentiation. The analysis uses single-cell RNA sequencing data from the **GSE119469** dataset.
